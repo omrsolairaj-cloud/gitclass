@@ -10,6 +10,10 @@ public class Sample {
     private void solairaj() {
 		System.out.println("Raj");
 	}
+    private void gawtham() {
+		System.out.println("Gowtham");
+
+	}
 
     public static void main(String[] args) {
         System.out.println("Sum: " + add(5, 3));
